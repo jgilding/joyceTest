@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "alg": "RS256",
+            "kty": "RSA",
+            "use": "sig",
+            "n": "jtCXnLfgeL_euR3etCcZESslI2zFeSFK8GV76GELhG841em2NF66s1A_8O2oGk54fxGl-UiqGNqf32ab9rOl6rOmSWt7m2-b7Y32DLpDT2ANbnh89F-3USwteFWgbgXyDH0HLx93Z1l6TaPBWNdo8IofegTDpFk-spY9Vq65oi6-03q8__x4Fk3Uhg1Dw4CTyPygoUc-dVPNmjkO72Cs1M2pcE-FVhqC0Qdf5gZcOW3UVggz-jD8AGBo622Y9BfDbEP7yqWO9FoY3VF4D4n29mVMEDCQ0GOw1RTxrWX_RTPJKS3ctp658KFL31HI7tekHb7OS_kx1qCKrmdT62uCrQ",
+            "e": "AQAB",
+            "kid": "joyce"
+        }
+    ]
+}
