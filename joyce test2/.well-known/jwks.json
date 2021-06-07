@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "alg": "RS256",
+            "kty": "RSA",
+            "use": "sig",
+            "n": "nqJy7sk0RrLKAHfOstMmptgWMdJG4FzAPVGJppqDQPbreNjIeVsst3U9c-NAPIinBeH-nXxNjL-puHiMyaavw5c3VN7b7LjEoq8uq0uGaiV5TErzdBkDcujhUVwU4PYiwPalWcdtGVDnjL-QYf-t5rgTHBQGy7OqsW6XM1I_zIqHEUB7C87xo9LnGuaSWWo3ZYvt4hFXOmRuGMntzSfkajpQCUS2yKvqhwLFcoijdqrQeaCuJ9epy0EXnadZ08NfOZP4p3S2Xv1kFuFbXlHxfSRAeNAcFp4ZZLvJFCYguc4efVhRwolX0G2GqxelfhdIFtNkSigx6AX9lwmk7rIXLw",
+            "e": "AQAB",
+            "kid": "Sourabh"
+        }
+    ]
+}
